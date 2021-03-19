@@ -6,7 +6,7 @@ Hi, i'm kasech! I'm a softwere engineer who is passionate about creating beautif
 
 
 - 🔭 I’m currently finshing up Lambda School
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...https://www.linkedin.com/in/kasech-isaac/
 
 
